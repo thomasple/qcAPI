@@ -1,6 +1,6 @@
 # qcAPI
 
-qcAPI enables to distribute quantum chemistry calculations over different machines following a simple client/server model (REST API).
+Distribute quantum chemistry calculations over different machines following a simple client/server model (REST API).
 
 **Warning**: This is a work in progress and no security measures for the API have been implemented yet.
 
