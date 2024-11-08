@@ -1,0 +1,426 @@
+B_0:
+  energy: -24.671520543029768  # Ha 
+  spin: 1  # 2*S
+  nel: 5
+  MBIS_volume: 7.316206099572991  # A^3
+  MBIS_sigma: 0.34139678027257464  # A
+Br_0:
+  energy: -2574.11672409928  # Ha 
+  spin: 1  # 2*S
+  nel: 35
+  MBIS_volume: 14.369396383423588  # A^3
+  MBIS_sigma: 0.296976534551454  # A
+C_0:
+  energy: -37.87264504262893  # Ha 
+  spin: 2  # 2*S
+  nel: 6
+  MBIS_volume: 5.283348424094951  # A^3
+  MBIS_sigma: 0.2781220477073865  # A
+Ca_0:
+  energy: -677.6128799154916  # Ha 
+  spin: 0  # 2*S
+  nel: 20
+  MBIS_volume: 32.494099035007935  # A^3
+  MBIS_sigma: 0.5886189139895805  # A
+Cl_0:
+  energy: -460.19887622407305  # Ha 
+  spin: 1  # 2*S
+  nel: 17
+  MBIS_volume: 9.85312321316122  # A^3
+  MBIS_sigma: 0.2771599125605998  # A
+F_0:
+  energy: -99.7861162043312  # Ha 
+  spin: 1  # 2*S
+  nel: 9
+  MBIS_volume: 2.8167079707998606  # A^3
+  MBIS_sigma: 0.18243532864296147  # A
+H_0:
+  energy: -0.4987605100487198  # Ha 
+  spin: 1  # 2*S
+  nel: 1
+  MBIS_volume: 1.2409718845631814  # A^3
+  MBIS_sigma: 0.27227412413766605  # A
+I_0:
+  energy: -297.76228914016696  # Ha 
+  spin: 1  # 2*S
+  nel: 25
+  MBIS_volume: 22.889724466422816  # A^3
+  MBIS_sigma: 0.3745406933485978  # A
+K_0:
+  energy: -599.9603076935783  # Ha 
+  spin: 1  # 2*S
+  nel: 19
+  MBIS_volume: 33.568168441142475  # A^3
+  MBIS_sigma: 0.7661719628581979  # A
+Li_0:
+  energy: -7.414235378027206  # Ha 
+  spin: 1  # 2*S
+  nel: 3
+  MBIS_volume: 26.432827978556375  # A^3
+  MBIS_sigma: 0.7890483275335429  # A
+Mg_0:
+  energy: -200.11187794678855  # Ha 
+  spin: 0  # 2*S
+  nel: 12
+  MBIS_volume: 15.279828000223514  # A^3
+  MBIS_sigma: 0.48209991446286554  # A
+N_0:
+  energy: -54.623275133931045  # Ha 
+  spin: 3  # 2*S
+  nel: 7
+  MBIS_volume: 3.9353933115723407  # A^3
+  MBIS_sigma: 0.23374037709386103  # A
+Na_0:
+  energy: -162.30553817981053  # Ha 
+  spin: 1  # 2*S
+  nel: 11
+  MBIS_volume: 17.176125272044533  # A^3
+  MBIS_sigma: 0.631903604455127  # A
+O_0:
+  energy: -75.11317840659595  # Ha 
+  spin: 2  # 2*S
+  nel: 8
+  MBIS_volume: 3.4286890457724484  # A^3
+  MBIS_sigma: 0.20601173123872618  # A
+P_0:
+  energy: -341.30591969941986  # Ha 
+  spin: 3  # 2*S
+  nel: 15
+  MBIS_volume: 12.647047210844272  # A^3
+  MBIS_sigma: 0.33855242245107176  # A
+S_0:
+  energy: -398.1599636586267  # Ha 
+  spin: 2  # 2*S
+  nel: 16
+  MBIS_volume: 11.42948224570469  # A^3
+  MBIS_sigma: 0.30629621217617364  # A
+Si_0:
+  energy: -289.4131352299571  # Ha 
+  spin: 2  # 2*S
+  nel: 14
+  MBIS_volume: 15.202067485751934  # A^3
+  MBIS_sigma: 0.38667688593223304  # A
+B_-1:
+  energy: -24.677421752848048  # Ha 
+  spin: 2  # 2*S
+  nel: 6
+  MBIS_volume: 18.333319513658935  # A^3
+  MBIS_sigma: 0.4208652322633094  # A
+Br_-1:
+  energy: -2574.245151097617  # Ha 
+  spin: 0  # 2*S
+  nel: 36
+  MBIS_volume: 23.949528434037802  # A^3
+  MBIS_sigma: 0.33878549831368665  # A
+C_-1:
+  energy: -37.91424135721333  # Ha 
+  spin: 3  # 2*S
+  nel: 7
+  MBIS_volume: 10.800722677164245  # A^3
+  MBIS_sigma: 0.32710257926661757  # A
+Ca_-1:
+  energy: -677.5960030784881  # Ha 
+  spin: 1  # 2*S
+  nel: 21
+  MBIS_volume: 86.02581856797475  # A^3
+  MBIS_sigma: 0.769117062930741  # A
+Cl_-1:
+  energy: -460.33502434725784  # Ha 
+  spin: 0  # 2*S
+  nel: 18
+  MBIS_volume: 17.65606923431734  # A^3
+  MBIS_sigma: 0.31370898672986636  # A
+F_-1:
+  energy: -99.91298732331549  # Ha 
+  spin: 0  # 2*S
+  nel: 10
+  MBIS_volume: 6.634533472628509  # A^3
+  MBIS_sigma: 0.21418232215153796  # A
+H_-1:
+  energy: -0.5027370837191288  # Ha 
+  spin: 0  # 2*S
+  nel: 2
+  MBIS_volume: 4.746128784781306  # A^3
+  MBIS_sigma: 0.35203374334266724  # A
+I_-1:
+  energy: -297.88138299204724  # Ha 
+  spin: 0  # 2*S
+  nel: 26
+  MBIS_volume: 35.76602806839951  # A^3
+  MBIS_sigma: 0.4303933574804548  # A
+K_-1:
+  energy: -599.976657211651  # Ha 
+  spin: 0  # 2*S
+  nel: 20
+  MBIS_volume: 104.09383144100917  # A^3
+  MBIS_sigma: 0.9485182993411223  # A
+Li_-1:
+  energy: -7.463231047029348  # Ha 
+  spin: 2  # 2*S
+  nel: 4
+  MBIS_volume: 88.49608974146982  # A^3
+  MBIS_sigma: 0.9374205383131083  # A
+Mg_-1:
+  energy: -200.0892693841446  # Ha 
+  spin: 1  # 2*S
+  nel: 13
+  MBIS_volume: 69.9865457320208  # A^3
+  MBIS_sigma: 0.7154471827779215  # A
+N_-1:
+  energy: -54.6022911036021  # Ha 
+  spin: 2  # 2*S
+  nel: 8
+  MBIS_volume: 7.471660049554448  # A^3
+  MBIS_sigma: 0.2714904761529215  # A
+Na_-1:
+  energy: -162.32204293057194  # Ha 
+  spin: 0  # 2*S
+  nel: 12
+  MBIS_volume: 63.29798778847911  # A^3
+  MBIS_sigma: 0.8183735365468722  # A
+O_-1:
+  energy: -75.1710165727675  # Ha 
+  spin: 1  # 2*S
+  nel: 9
+  MBIS_volume: 9.047569429256459  # A^3
+  MBIS_sigma: 0.24824861756079522  # A
+P_-1:
+  energy: -341.3249503938028  # Ha 
+  spin: 2  # 2*S
+  nel: 16
+  MBIS_volume: 20.941616261829818  # A^3
+  MBIS_sigma: 0.38396064617966513  # A
+S_-1:
+  energy: -398.24053869126436  # Ha 
+  spin: 1  # 2*S
+  nel: 17
+  MBIS_volume: 22.91356797006366  # A^3
+  MBIS_sigma: 0.3560458569303798  # A
+Si_-1:
+  energy: -289.4540685991498  # Ha 
+  spin: 3  # 2*S
+  nel: 15
+  MBIS_volume: 26.957370110929737  # A^3
+  MBIS_sigma: 0.44504825316109464  # A
+B_1:
+  energy: -24.36464870717334  # Ha 
+  spin: 0  # 2*S
+  nel: 4
+  MBIS_volume: 2.7680649857848083  # A^3
+  MBIS_sigma: 0.2864670945686788  # A
+Br_1:
+  energy: -2573.680438602049  # Ha 
+  spin: 2  # 2*S
+  nel: 34
+  MBIS_volume: 9.785596295583478  # A^3
+  MBIS_sigma: 0.26813109086393  # A
+C_1:
+  energy: -37.453492161223636  # Ha 
+  spin: 1  # 2*S
+  nel: 5
+  MBIS_volume: 2.5003437974163663  # A^3
+  MBIS_sigma: 0.24126284859257088  # A
+Ca_1:
+  energy: -677.3298881986938  # Ha 
+  spin: 1  # 2*S
+  nel: 19
+  MBIS_volume: 9.054621118836039  # A^3
+  MBIS_sigma: 0.6226795943877363  # A
+Cl_1:
+  energy: -459.71874746565965  # Ha 
+  spin: 2  # 2*S
+  nel: 16
+  MBIS_volume: 6.4157493638359675  # A^3
+  MBIS_sigma: 0.25180984535920764  # A
+F_1:
+  energy: -99.141341628895  # Ha 
+  spin: 2  # 2*S
+  nel: 8
+  MBIS_volume: 1.5884341341094717  # A^3
+  MBIS_sigma: 0.1630151871813832  # A
+H_1:
+  energy: 0.0  # Ha 
+  spin: 0  # 2*S
+  nel: 0
+  MBIS_volume: 1.e-3  # A^3
+  MBIS_sigma: 1.e-5  # A
+I_1:
+  energy: -297.37439320077107  # Ha 
+  spin: 2  # 2*S
+  nel: 24
+  MBIS_volume: -0.14818471127642288  # A^3
+  MBIS_sigma: -0.52917721067  # A
+K_1:
+  energy: -599.802567751473  # Ha 
+  spin: 0  # 2*S
+  nel: 18
+  MBIS_volume: 5.239770343325327  # A^3
+  MBIS_sigma: 0.2151477962726214  # A
+Li_1:
+  energy: -7.285254714046038  # Ha 
+  spin: 0  # 2*S
+  nel: 2
+  MBIS_volume: -0.14818471127642288  # A^3
+  MBIS_sigma: -0.52917721067  # A
+Mg_1:
+  energy: -199.82633508069344  # Ha 
+  spin: 1  # 2*S
+  nel: 11
+  MBIS_volume: 5.627940798297771  # A^3
+  MBIS_sigma: 0.413819968089638  # A
+N_1:
+  energy: -54.085941411655476  # Ha 
+  spin: 2  # 2*S
+  nel: 6
+  MBIS_volume: 2.1246559526282955  # A^3
+  MBIS_sigma: 0.20717168329019575  # A
+Na_1:
+  energy: -162.11366478797032  # Ha 
+  spin: 0  # 2*S
+  nel: 10
+  MBIS_volume: 1.2100683326483308  # A^3
+  MBIS_sigma: 0.13447308809573577  # A
+O_1:
+  energy: -74.60241514381097  # Ha 
+  spin: 3  # 2*S
+  nel: 7
+  MBIS_volume: 1.788179839366304  # A^3
+  MBIS_sigma: 0.18128390194261268  # A
+P_1:
+  energy: -340.925839244435  # Ha 
+  spin: 2  # 2*S
+  nel: 14
+  MBIS_volume: 7.549499736203222  # A^3
+  MBIS_sigma: 0.30153538396678636  # A
+S_1:
+  energy: -397.77466159566364  # Ha 
+  spin: 3  # 2*S
+  nel: 15
+  MBIS_volume: 6.909579740706421  # A^3
+  MBIS_sigma: 0.2733913967460104  # A
+Si_1:
+  energy: -289.118940477086  # Ha 
+  spin: 1  # 2*S
+  nel: 13
+  MBIS_volume: 7.836478898128419  # A^3
+  MBIS_sigma: 0.33259586467930813  # A
+B_-2:
+  energy: -24.46083467694947  # Ha 
+  spin: 3  # 2*S
+  nel: 7
+  MBIS_volume: 36.46650512418283  # A^3
+  MBIS_sigma: 0.5012864595859027  # A
+Br_-2:
+  energy: -2574.032859037763  # Ha 
+  spin: 1  # 2*S
+  nel: 37
+  MBIS_volume: 94.36664876320161  # A^3
+  MBIS_sigma: 0.5064603714933423  # A
+O_-2:
+  energy: -74.83579344200919  # Ha 
+  spin: 2  # 2*S
+  nel: 10
+  MBIS_volume: 25.755072670480576  # A^3
+  MBIS_sigma: 0.3320326973155372  # A
+P_-2:
+  energy: -341.0991392350847  # Ha 
+  spin: 1  # 2*S
+  nel: 17
+  MBIS_volume: 31.373445645203923  # A^3
+  MBIS_sigma: 0.42577495846560043  # A
+S_-2:
+  energy: -398.1043265955096  # Ha 
+  spin: 0  # 2*S
+  nel: 18
+  MBIS_volume: 63.635827080302576  # A^3
+  MBIS_sigma: 0.4578243416921018  # A
+Si_-2:
+  energy: -289.2356315165488  # Ha 
+  spin: 4  # 2*S
+  nel: 16
+  MBIS_volume: 67.75599507440457  # A^3
+  MBIS_sigma: 0.5689761125034674  # A
+C_2:
+  energy: -36.5527433630762  # Ha 
+  spin: 0  # 2*S
+  nel: 4
+  MBIS_volume: 1.2149178162003365  # A^3
+  MBIS_sigma: 0.21724243357324943  # A
+Ca_2:
+  energy: -676.9528465155182  # Ha 
+  spin: 0  # 2*S
+  nel: 18
+  MBIS_volume: 3.5782527697586524  # A^3
+  MBIS_sigma: 0.18879680980911606  # A
+Mg_2:
+  energy: -199.26884200393783  # Ha 
+  spin: 0  # 2*S
+  nel: 10
+  MBIS_volume: 0.7361991642664151  # A^3
+  MBIS_sigma: 0.11511310113509304  # A
+N_2:
+  energy: -52.99334481587796  # Ha 
+  spin: 1  # 2*S
+  nel: 5
+  MBIS_volume: 1.17385316074753  # A^3
+  MBIS_sigma: 0.18800875464589428  # A
+O_2:
+  energy: -73.31062053347213  # Ha 
+  spin: 2  # 2*S
+  nel: 6
+  MBIS_volume: 1.075332240049572  # A^3
+  MBIS_sigma: 0.16595064607726887  # A
+P_2:
+  energy: -340.20646768601597  # Ha 
+  spin: 1  # 2*S
+  nel: 13
+  MBIS_volume: 4.350053590727331  # A^3
+  MBIS_sigma: 0.2691781352578808  # A
+S_2:
+  energy: -396.9235941307655  # Ha 
+  spin: 2  # 2*S
+  nel: 14
+  MBIS_volume: 4.437877268369388  # A^3
+  MBIS_sigma: 0.24955599671108009  # A
+P_-3:
+  energy: -340.65816247175536  # Ha 
+  spin: 2  # 2*S
+  nel: 18
+  MBIS_volume: 59.678040338899784  # A^3
+  MBIS_sigma: 0.5032145537060045  # A
+C_3:
+  energy: -34.81498152764294  # Ha 
+  spin: 1  # 2*S
+  nel: 3
+  MBIS_volume: 0.4944413814904466  # A^3
+  MBIS_sigma: 0.19604429585034483  # A
+P_3:
+  energy: -339.10664649025256  # Ha 
+  spin: 0  # 2*S
+  nel: 12
+  MBIS_volume: 2.2937989124506  # A^3
+  MBIS_sigma: 0.23805371443420167  # A
+S_3:
+  energy: -395.65195919971546  # Ha 
+  spin: 1  # 2*S
+  nel: 13
+  MBIS_volume: 2.7600619118992045  # A^3
+  MBIS_sigma: 0.22808322823061336  # A
+C_4:
+  energy: -32.43646910162085  # Ha 
+  spin: 0  # 2*S
+  nel: 2
+  MBIS_volume: -0.14818471127642288  # A^3
+  MBIS_sigma: -0.52917721067  # A
+P_4:
+  energy: -337.2126166416624  # Ha 
+  spin: 1  # 2*S
+  nel: 11
+  MBIS_volume: 1.1508244936571088  # A^3
+  MBIS_sigma: 0.225101602837135  # A
+S_4:
+  energy: -393.92256616829036  # Ha 
+  spin: 0  # 2*S
+  nel: 12
+  MBIS_volume: 1.5652331144804226  # A^3
+  MBIS_sigma: 0.2066781837996765  # A
